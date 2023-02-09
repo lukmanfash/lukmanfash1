@@ -3,6 +3,11 @@
 
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Employment
+- [University of Tennessee, Knoxville](https://geography.utk.edu/about-us/people/graduate-students/)
+- [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina)
+
+## Projects
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
